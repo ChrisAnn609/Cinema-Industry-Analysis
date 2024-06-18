@@ -11,7 +11,9 @@
 
   ### Project Overview
   This Data Analysis Project aims to provide insights into  movie trends, audience preferences, box office performance and profitability in the cinema industry. By analyzing various aspects of cinema data, this project seeks to identify trends,make data-driven recommendations and gain a deeper understanding of the industry's performance.
+  
   [Dashboard](Cinemadashboard.png)
+  
   ![image](https://github.com/ChrisAnn609/Cinema-Industry-Analysis/assets/173093556/52fbe4cf-389f-4a9a-8248-1c7d573c8873)
 
  
