@@ -75,6 +75,7 @@ ROI = DIVIDE(
     SUM('Movie Production Budget & Costs'[Production Budget($)]),
     0
 )
+
 ```
 This formula divides the difference between the total box office revenue and the production budget by the production budget. If the production budget is zero, the formula returns zero to avoid division by zero errors.
 
